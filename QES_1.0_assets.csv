@@ -1,0 +1,32 @@
+Symbol,Factor,FactorDescription,FactorSequene
+"  'FRED/DTB3.1',",TB3,3-Month Treasury Bill: Secondary Market Rate,1
+"'NASDAQOMX.NQGI.1,'",NQGI,NASDAQ Global Index,2
+"  'NASDAQOMX/NQNL.1',",NQNL,NASDAQ Netherlands Index,3
+"  'NASDAQOMX/NQAU.1',",NQAU,NASDAQ Australia Index,4
+"  'NASDAQOMX/NQCA.1',",NQCA,NASDAQ Canada Index,5
+"  'NASDAQOMX/NQCN.1',",NQCN,NASDAQ China Index,6
+"  'NASDAQOMX/NQCZ.1',",NQCZ,NASDAQ Czech Republic Index,7
+"  'NASDAQOMX/NQEG.1',",NQEG,NASDAQ Egypt Index,8
+"  'NASDAQOMX/NQFI.1',",NQFI,NASDAQ Finland Index,9
+"  'NASDAQOMX/NQFR.1',",NQFR,NASDAQ France Index,10
+"  'NASDAQOMX/NQDE.1',",NQDE,NASDAQ Germany Index,11
+"  'NASDAQOMX/NQGR.1',",NQGR,NASDAQ Greece Index,12
+"  'NASDAQOMX/NQHK.1',",NQHK,NASDAQ Hong Kong Index,13
+"  'NASDAQOMX/NQIN.1',",NQIN,NASDAQ India Index,14
+"  'NASDAQOMX/NQID.1',",NQID,NASDAQ Indonesia Index,15
+"  'NASDAQOMX/NQIL.1',",NQIL,NASDAQ Israel Index,16
+"  'NASDAQOMX/NQJP.1',",NQJP,NASDAQ Japan Index,17
+"  'NASDAQOMX/NQKR.1',",NQKR,NASDAQ Korea Index,18
+"  'NASDAQOMX/NQMY.1',",NQMY,NASDAQ Malaysia Index,19
+"  'NASDAQOMX/NQPH.1',",NQPH,NASDAQ Philippines Index,20
+"  'NASDAQOMX/NQPL.1',",NQPL,NASDAQ Poland Index,21
+"  'NASDAQOMX/NQPT.1',",NQPT,NASDAQ Portugal Index,22
+"  'NASDAQOMX/NQRU.1',",NQRU,NASDAQ Russia Index,23
+"  'NASDAQOMX/NQSG.1',",NQSG,NASDAQ Singapore Index,24
+"  'NASDAQOMX/NQES.1',",NQES,NASDAQ Spain Index,25
+"  'NASDAQOMX/NQSE.1',",NQSE,NASDAQ Sweden Index,26
+"  'NASDAQOMX/NQCH.1',",NQCH,NASDAQ Switzerland Index,27
+"  'NASDAQOMX/NQTW.1',",NQTW,NASDAQ Taiwan Index,28
+"  'NASDAQOMX/NQTH.1',",NQTH,NASDAQ Thailand Index,29
+"  'NASDAQOMX/NQTR.1',",NQTR,NASDAQ Turkey Index,30
+"  'NASDAQOMX/NQGB.1',",NQGB,NASDAQ United Kingdom Index,31
